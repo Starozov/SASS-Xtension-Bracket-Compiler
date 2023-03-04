@@ -1,0 +1,20 @@
+{
+  "sass.enabled": true,
+  "sass.compiler": "libsass",
+  "sass.options": {
+    "outputStyle": "expanded",
+    "sourceComments": false
+  },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "./css/"
+    }
+  ],
+  "path": {
+    "scss/": {
+      "sass.enabled": true
+    }
+  }
+}
