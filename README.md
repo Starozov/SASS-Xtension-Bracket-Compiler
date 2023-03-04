@@ -3,7 +3,7 @@ The Xtension version's 2.0.7 Which will be worked for bracket version 2.1.3
 
   ## How to use
   - Open Xtension by clicking the 2nd logo at right side corner, then drag and drop the zip file.
-  - All have been set , **You dont need any installation again, all set. 
+  - All have been set , **You dont need any installation again, all set.** 
   - Once you create .scss file, the .css file will be created automatically in the same direktori
   
   ## Configuration
